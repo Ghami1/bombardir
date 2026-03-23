@@ -1,15 +1,25 @@
-# 🚀 Bombardir
+<img width="474" height="689" alt="image" src="https://github.com/user-attachments/assets/3c867fcb-3889-45d8-ad1b-6eca0e374a7d" /># 🚀 Bombardir
 
-> Tools scraping sederhana menggunakan **JavaScript (Node.js)** dan **Python**
+<p align="center">
+  <b>Simple & Powerful Scraping Tools</b><br>
+  Built with Node.js & Python
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-18+-green?logo=node.js">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python">
+  <img src="https://img.shields.io/badge/Status-Active-success">
+  <img src="https://img.shields.io/badge/License-Free-lightgrey">
+</p>
 
 ---
 
 ## ✨ Features
 
-* ⚡ Scraping cepat & ringan
-* 🌐 Support proxy (proxy.txt)
-* 🧩 Multi-language (Node.js & Python)
-* 🔧 Mudah dikembangkan
+* ⚡ Fast scraping performance
+* 🌐 Proxy support
+* 🧩 Multi-language support (JS & Python)
+* 🔧 Easy to customize
 
 ---
 
@@ -18,14 +28,14 @@
 ```
 bombardir/
 │
-├── scrape.js       # Script scraping (Node.js)
-├── scrape.py       # Script scraping (Python)
-├── proxy.txt       # Daftar proxy
+├── scrape.js
+├── scrape.py
+├── proxy.txt
 ```
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Usage
 
 ### 🟢 Node.js
 
@@ -43,10 +53,17 @@ python scrape.py
 
 ---
 
+## 📸 Preview
+
+<img width="474" height="689" alt="image" src="https://github.com/user-attachments/assets/81b736ab-77e7-4256-8069-e0bf10bd69be" />
+
+
+---
+
 ## ⚠️ Disclaimer
 
-Project ini dibuat hanya untuk **pembelajaran**.
-Gunakan dengan bijak dan jangan melanggar aturan website.
+This project is for **educational purposes only**.
+Use responsibly and respect website policies.
 
 ---
 
@@ -56,11 +73,8 @@ Gunakan dengan bijak dan jangan melanggar aturan website.
 
 ---
 
-## ⭐ Support
+## ⭐ Show Your Support
 
-Kalau kamu suka project ini:
-
-* ⭐ Star repo ini
-* 🍴 Fork untuk pengembangan
+Give a ⭐ if you like this project!
 
 ---
