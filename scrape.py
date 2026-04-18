@@ -113,6 +113,20 @@ proxy_urls = [
     'https://api.proxyscrape.com/v2/?request=getproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all',
     'https://www.proxydocker.com/en/proxylist/download?email=noshare&country=all&city=all&port=all&type=all&anonymity=all&state=all&need=all',
     'https://api.proxyscrape.com/v2/?request=getproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=anonymous'
+    'https://raw.githubusercontent.com/hookzof/socks5_list/refs/heads/master/proxy.txt'
+    'https://raw.githubusercontent.com/r00tee/Proxy-List/refs/heads/main/Socks4.txt'
+    'https://raw.githubusercontent.com/r00tee/Proxy-List/refs/heads/main/Socks5.txt'
+    'https://raw.githubusercontent.com/r00tee/Proxy-List/refs/heads/main/Https.txt'
+    'https://raw.githubusercontent.com/TheSpeedX/PROXY-List/refs/heads/master/socks4.txt'
+    'https://raw.githubusercontent.com/TheSpeedX/PROXY-List/refs/heads/master/socks5.txt'
+    'https://raw.githubusercontent.com/ALIILAPRO/Proxy/main/socks5.txt'
+    'https://raw.githubusercontent.com/r00tee/Proxy-List/main/Socks5.txt'
+    'https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt'
+    'https://raw.githubusercontent.com/roosterkid/openproxylist/main/HTTPS_RAW.txt'
+    'https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt'
+    'https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt'
+    'https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/protocols/socks5/data.txt'
+    'https://raw.githubusercontent.com/zloi-user/hideip.me/main/socks5.txt'
 ]
 
 def download_and_save_proxies(url, output_file):
