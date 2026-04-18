@@ -92,11 +92,7 @@ const proxyUrls = [
     'https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt'
     'https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/protocols/socks5/data.txt'
     'https://raw.githubusercontent.com/zloi-user/hideip.me/main/socks5.txt'
-    'https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt'
-    'https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/protocols/socks5/data.txt'
-    'https://raw.githubusercontent.com/r00tee/Proxy-List/main/Socks5.txt'
     'https://raw.githubusercontent.com/iplocate/free-proxy-list/main/socks5.txt'
-    'https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks5.txt'
     'https://api.proxyscrape.com/v2/?request=displayproxies&protocol=socks5'
 ];
 
