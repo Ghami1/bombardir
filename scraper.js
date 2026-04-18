@@ -78,6 +78,26 @@ const proxyUrls = [
     'https://raw.githubusercontent.com/yuceltoluyag/GoodProxy/main/raw.txt',
     'https://slims-sf.com/Htewarukofdcn/https.txt',
     'https://slims-sf.com/Htewarukofdcn/http.txt'
+    'https://raw.githubusercontent.com/hookzof/socks5_list/refs/heads/master/proxy.txt'
+    'https://raw.githubusercontent.com/r00tee/Proxy-List/refs/heads/main/Socks4.txt'
+    'https://raw.githubusercontent.com/r00tee/Proxy-List/refs/heads/main/Socks5.txt'
+    'https://raw.githubusercontent.com/r00tee/Proxy-List/refs/heads/main/Https.txt'
+    'https://raw.githubusercontent.com/TheSpeedX/PROXY-List/refs/heads/master/socks4.txt'
+    'https://raw.githubusercontent.com/TheSpeedX/PROXY-List/refs/heads/master/socks5.txt'
+    'https://raw.githubusercontent.com/ALIILAPRO/Proxy/main/socks5.txt'
+    'https://raw.githubusercontent.com/r00tee/Proxy-List/main/Socks5.txt'
+    'https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt'
+    'https://raw.githubusercontent.com/roosterkid/openproxylist/main/HTTPS_RAW.txt'
+    'https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt'
+    'https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt'
+    'https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/protocols/socks5/data.txt'
+    'https://raw.githubusercontent.com/zloi-user/hideip.me/main/socks5.txt'
+    'https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt'
+    'https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/protocols/socks5/data.txt'
+    'https://raw.githubusercontent.com/r00tee/Proxy-List/main/Socks5.txt'
+    'https://raw.githubusercontent.com/iplocate/free-proxy-list/main/socks5.txt'
+    'https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks5.txt'
+    'https://api.proxyscrape.com/v2/?request=displayproxies&protocol=socks5'
 ];
 
 // User agents yang akan digunakan untuk request
