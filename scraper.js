@@ -94,6 +94,7 @@ const proxyUrls = [
     'https://raw.githubusercontent.com/zloi-user/hideip.me/main/socks5.txt'
     'https://raw.githubusercontent.com/iplocate/free-proxy-list/main/socks5.txt'
     'https://api.proxyscrape.com/v2/?request=displayproxies&protocol=socks5'
+    'https://raw.githubusercontent.com/Skiddle-ID/proxylist/refs/heads/main/proxies.txt'
 ];
 
 // User agents yang akan digunakan untuk request
