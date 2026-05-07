@@ -160,6 +160,7 @@ const raw_proxy_sites = [
 'https://api.proxyscrape.com/v2/?request=getproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all',
 'https://www.proxydocker.com/en/proxylist/download?email=noshare&country=all&city=all&port=all&type=all&anonymity=all&state=all&need=all',
 'https://api.proxyscrape.com/v2/?request=getproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=anonymous'
+'https://raw.githubusercontent.com/Skiddle-ID/proxylist/refs/heads/main/proxies.txt'
   // ... tambahkan URL lainnya sesuai kebutuhan Anda
 ];
 
