@@ -127,6 +127,7 @@ proxy_urls = [
     'https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt'
     'https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/protocols/socks5/data.txt'
     'https://raw.githubusercontent.com/zloi-user/hideip.me/main/socks5.txt'
+    'https://raw.githubusercontent.com/Skiddle-ID/proxylist/refs/heads/main/proxies.txt'
 ]
 
 def download_and_save_proxies(url, output_file):
